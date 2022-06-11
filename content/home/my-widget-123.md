@@ -2,7 +2,7 @@
 widget: Hero2
 widget_id: my-widget-123
 headless: true
-weight: 10
+weight: 1
 active: true
 design:
   columns: "2"
